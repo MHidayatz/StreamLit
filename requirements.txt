@@ -23,9 +23,6 @@ pathspec==0.7.0
 pathy==0.6.2
 patsy==0.5.2
 pdfplumber==0.7.4
-pycurl==7.44.1
-pydantic==1.9.2
-pydeck==0.8.0b3
 PyDispatcher==2.0.5
 pyee==8.1.0
 pyls-spyder==0.4.0
