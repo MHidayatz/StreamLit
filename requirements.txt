@@ -36,8 +36,6 @@ GitPython==3.1.27
 greenlet==1.1.2
 h11==0.13.0
 inflection==0.5.1
-ipykernel @ file:///C:/ci/ipykernel_1646982785443/work/dist/ipykernel-6.9.1-py3-none-any.whl
-
 jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1616770841739/work
 jupyter-console @ file:///tmp/build/80754af9/jupyter_console_1616615302928/work
 jupyter-core @ file:///C:/ci/jupyter_core_1646994619043/work
