@@ -48,7 +48,6 @@ murmurhash==1.0.8
 mypy-extensions==0.4.3
 navigator-updater==0.2.1
 neattext==0.1.3
-numpy @ file:///C:/ci/numpy_and_numpy_base_1649782970434/work
 outcome==1.2.0
 pandas @ file:///C:/ci/pandas_1650373458095/work
 pathspec==0.7.0
