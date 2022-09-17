@@ -7,6 +7,10 @@ from sumy.parsers.plaintext import PlaintextParser
 from sumy.nlp.tokenizers import Tokenizer
 from sumy.summarizers.lex_rank import LexRankSummarizer
 
+#Import NLTK
+import nltk
+nltk.download('punkt')
+
 # Eda Pkg
 import pandas as pd
 
