@@ -7,8 +7,8 @@
 ## How to use the app:
 
 ### Method 1 - Home Page
-User simply copy & paste text into the text editor.
-Click analyze to see the results.
+User simply copy & paste text into the text editor. 
+<br> Click analyze to see the results.
 
 ### Method 2 - NLP (files) 
 
