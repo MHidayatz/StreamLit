@@ -75,7 +75,7 @@ def evaluate_summary(summary,reference):
 
 def main():
     st.title("NLP App with Streamlit")
-    st.set_page_config(page_title = "Text Summarization", layout="wide") 
+    st.set_page_config(page_title="Text Summarization", page_icon=":tada:", layout="wide")
     menu = ["Home", "NLP (files)", "About"]
     choice = st.sidebar.selectbox("Menu",menu)
 
