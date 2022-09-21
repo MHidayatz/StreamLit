@@ -4,13 +4,13 @@
 
 ## This app is design to capture sentences and returns an automatic text summarization using LexRank.
 
-### How to use the app:
+## How to use the app:
 
-# Method 1 - Home Page
+### Method 1 - Home Page
 User simply copy & paste text into the text editor.
 Click analyze to see the results.
 
-# Method 2 - NLP (files) 
+### Method 2 - NLP (files) 
 
 
 ### What this app does: 
