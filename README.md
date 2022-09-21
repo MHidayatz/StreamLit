@@ -12,7 +12,7 @@ User simply copy & paste text into the text editor.
 
 ### Method 2 - NLP (files) 
 Click on the Menu drop down menu page and select NLP (files).
-![](https://github.com/MHidayatz/StreamLit/blob/main/Visuals/00_Main.PNG)
+![](https://github.com/MHidayatz/StreamLit/blob/main/Visuals/02_Menu.png)
 
 ### What this app does: 
 
