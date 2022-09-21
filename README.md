@@ -1,5 +1,7 @@
 ## NLP App with Streamlit
 
+![](https://github.com/MHidayatz/StreamLit/blob/main/Visuals/00_Main.PNG)
+
 ## This app is design to capture sentences and returns an automatic text summarization using LexRank.
 
 
