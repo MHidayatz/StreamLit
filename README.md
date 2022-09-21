@@ -11,7 +11,8 @@ User simply copy & paste text into the text editor.
 <br> Click analyze to see the results.
 
 ### Method 2 - NLP (files) 
-
+Click on the Menu drop down menu page and select NLP (files).
+![](https://github.com/MHidayatz/StreamLit/blob/main/Visuals/00_Main.PNG)
 
 ### What this app does: 
 
