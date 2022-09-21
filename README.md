@@ -1,4 +1,5 @@
 ## NLP App with Streamlit
+This [project](https://mhidayatz-streamlit-app-h1htjm.streamlitapp.com/) is deployed via Streamlit.
 
 ![](https://github.com/MHidayatz/StreamLit/blob/main/Visuals/00_Main.PNG)
 
@@ -14,10 +15,14 @@ User simply copy & paste text into the text editor.
 Click on the Menu drop down menu page and select NLP (files).
 ![](https://github.com/MHidayatz/StreamLit/blob/main/Visuals/02_Menu.png)
 
-### What this app does: 
+<br>
+Select any PDF, Docx or Txt file for app to start analyzing.
+
+### What happens in the hood: 
+
+-
 
 
 
 
-This [project](https://mhidayatz-streamlit-app-h1htjm.streamlitapp.com/) is deployed via Streamlit.
  
