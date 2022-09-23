@@ -2,6 +2,7 @@
 import streamlit as st
 import streamlit.components.v1 as stc
 st.set_page_config(page_title="Text Summarization", page_icon=":tada:", layout="wide")
+from streamlit_option_menu import option_menu
 
 # LexRank Algo
 from sumy.parsers.plaintext import PlaintextParser
@@ -77,7 +78,16 @@ def evaluate_summary(summary,reference):
 def main():
     st.title("NLP App with Streamlit")
     menu = ["Home", "NLP (files)", "About"]
-    choice = st.sidebar.selectbox("Menu",menu)
+    #choice = st.sidebar.selectbox("Menu",menu)
+
+    choice = option_menu(
+        menu_title = None,
+        options = menu,
+        icons = ["house", "book", "envelope"],
+        menu_icon = "cast",
+        default_index = 0,
+        orientation = "horizontal"
+    )
 
     if choice =="Home":
         st.subheader("Home: Analyze Text")
